@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96186098712",
+    "project_id": "chatapp-10907",
+    "storage_bucket": "chatapp-10907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96186098712:android:b93b9a3e68c9002e4a8f6d",
+        "android_client_info": {
+          "package_name": "com.example.logreg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzz_uHyT6KxOPlUjy0LmDmTOM0d314Jeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
